@@ -1,0 +1,46 @@
+
+
+Sentence Processing Parameters
+--------------------------------------
+HRTF:  1
+Envelope Conditioning:  1
+Presentation Level (SPL):  65
+Sample Frequency:  44100
+
+
+Model Parameters
+--------------------------
+Sample Frequency:  100000 Hz
+Spontaneous Rates:  1  2  3
+Spontaneous Rates Fractions (respectively):  0.1         0.3         0.6
+Time Multiplication Factor:  1.20
+Characteristic Frequencies (Legacy) - Min:  180.0000 Hz, Max:  7040.0000 Hz, Total: 128:
+Characteristic Frequencies (Hines & Harte, 2012) - Min:  247.2796 Hz, Max:  7040.0000 Hz, Total: 29:
+Outer Hair-cell Control:  1
+Inner Hair-cell Control:  1
+Power-law Implementation:  0
+Realizations:  1
+Species:  Human
+
+
+Neurogram Processing Parameters
+----------------------------------------
+ENV Window:  1.000e-04 seconds
+ENV Samples:  128
+TFS Window:  1.000e-05 seconds
+TFS Samples:  32
+STMI Window:  rectangular
+STMI Window:  0.016
+Fractional Overlap:  0.500
+
+
+STMI Rate - Min: 2.000, Max: 32.000, Total: 9
+STMI Scale - Min: 0.250, Max: 8.000, Total: 11
+
+
+NSIM Weight - ALPHA:   1.00
+NSIM Weight - BETA:   0.00
+NSIM Weight - GAMMA:   1.00
+NSIM Kernel-size (rows):  3, (columns): 3
+
+

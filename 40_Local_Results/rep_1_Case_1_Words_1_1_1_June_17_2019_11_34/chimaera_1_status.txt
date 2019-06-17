@@ -1,0 +1,7 @@
+
+
+Words 1 to 1, step-size of 1.
+Word:  1
+
+Chimaera set processing time:  39.7 minute(s)
+
